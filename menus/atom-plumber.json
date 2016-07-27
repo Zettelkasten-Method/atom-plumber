@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Plumb this",
+        "command": "atom-plumber:plumb"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-plumber",
+          "submenu": [
+            {
+              "label": "Plumb this",
+              "command": "atom-plumber:plumb"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
