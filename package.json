@@ -1,15 +1,13 @@
 {
   "name": "atom-plumber",
   "main": "./lib/atom-plumber",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Send selected text or word under cursor to the plan9 plumber",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/xHN35RQ/atom-plumber",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
