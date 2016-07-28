@@ -1,6 +1,6 @@
 # atom-plumber package
 
-Send selected text or word under cursor to the [plan9](https://swtch.com/plan9port/) [plumber](https://swtch.com/plan9port/man/man4/plumber.html). Requires [`plumber` to be installed](https://github.com/9fans/plan9port/) and available on your path. Also requires a valid [`plumbing` file](https://gist.github.com/xHN35RQ/b79da3dccc53f9bdd953ba78403dd001) so that `plumber` knows how to interpret the messages you're sending to it from Atom.
+Send selected text or word under cursor to the [plan9](https://swtch.com/plan9port/) [plumber](https://swtch.com/plan9port/man/man4/plumber.html). Requires [`plumber` to be installed](https://github.com/9fans/plan9port/) and available on your path. Also requires a valid [`plumbing` file](https://github.com/search?utf8=%E2%9C%93&q=9p+write+plumb%2Frules+filename%3Aplumbing) so that `plumber` knows how to interpret the messages you're sending to it from Atom.
 
 ## Usage
 
