@@ -8,16 +8,21 @@ Running `atom-plumber:plumb` will send the current selection to `plumber`. If no
 
 ## Commands
 
-The default keymap is `alt-enter`. You can remap this in your `keymap.cson`:
+Available commands are:
+
+* `alt-enter`
+* `alt-click`
+* right-click and select "Plumb this" from the menu
+* run "Atom Plumber: Plumb" from the Command Palette
+
+You can make your own keymap in your `keymap.cson`. Change `alt-enter` to something else:
 
 ```
 'atom-workspace':
   'alt-enter': 'atom-plumber:plumb'
 ```
 
-You can also right-click and select "Plumb this" to run atom-plumber.
-
-Or you can `alt-click/cmd-click/win-click` on a selection or word. I may change this to `ctrl-click`. Let me know if you have any problems with the click functionality.
+Sometimes alt-clicking on a selection will clear the selection. If so use `ctrl-alt-click` on selections. Let me know if you have any problems with the click functionality.
 
 ## Contribution
 
