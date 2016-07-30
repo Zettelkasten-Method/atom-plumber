@@ -1,3 +1,19 @@
+## 0.5.0
+* Update regex to accept `🔗`
+* Update readme link
+* Update this changelog
+
+## 0.4.0
+* Update package description
+
+## 0.3.0
+* Let Atom help us determine if there is a link under the cursor
+* Plugin formatting
+
+## 0.2.0
+* Use only `alt-click`
+* Improve documentation
+
 ## 0.1.0 - First Release
 * Basic plumbing is operational
 * Keymaps and clicks seem to work
