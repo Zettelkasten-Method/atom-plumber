@@ -1,3 +1,6 @@
+## 0.7.0
+* Update documentation
+
 ## 0.6.0
 * Code linting improvements 
 
