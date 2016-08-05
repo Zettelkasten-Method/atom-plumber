@@ -1,3 +1,6 @@
+## 0.6.0
+* Code linting improvements 
+
 ## 0.5.0
 * Update regex to accept `🔗`
 * Update readme link
