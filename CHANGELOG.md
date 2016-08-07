@@ -1,8 +1,11 @@
+## 0.8.0
+* Trim selection before sending to plumber
+
 ## 0.7.0
 * Update documentation
 
 ## 0.6.0
-* Code linting improvements 
+* Code linting improvements
 
 ## 0.5.0
 * Update regex to accept `🔗`
