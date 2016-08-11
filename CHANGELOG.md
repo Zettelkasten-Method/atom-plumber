@@ -1,3 +1,6 @@
+## 0.9.0
+* Update regex to accept `@`
+
 ## 0.8.0
 * Trim selection before sending to plumber
 
