@@ -1,4 +1,4 @@
-## 1.0.0
+## 0.10.0
 * Update regex to accept `?`
 
 ## 0.9.0
