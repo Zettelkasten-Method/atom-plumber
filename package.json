@@ -1,7 +1,7 @@
 {
   "name": "atom-plumber",
   "main": "./lib/atom-plumber",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "description": "Send text to the Plan 9 plumber from within Atom",
   "keywords": [],
   "repository": "https://github.com/xHN35RQ/atom-plumber",
