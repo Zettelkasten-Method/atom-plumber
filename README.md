@@ -6,7 +6,7 @@ Requires [`plumber` to be installed](https://github.com/9fans/plan9port/) and av
 
 ## Usage
 
-Running `atom-plumber:plumb` will send the current selection to `plumber`. If nothing is selected, the current word under the cursor will be sent. "Word" is defined by this regex `/[?#＃@＠🔗\.\-\:\/\w\d]+(:\d+)?/i` which means web, file and custom linking protocols are supported.
+Running `atom-plumber:plumb` will send the current selection to `plumber`. If nothing is selected, the current word under the cursor will be sent. Web, file and custom linking protocols are supported.
 
 ## Commands
 

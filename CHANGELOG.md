@@ -1,3 +1,6 @@
+## 0.13.0
+* Support valid punctuation in word regex
+
 ## 0.12.0
 * Cleanup word regex
 
