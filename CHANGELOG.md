@@ -1,3 +1,6 @@
+## 0.12.0
+* Cleanup word regex
+
 ## 0.11.0
 * Update regex to accept `#＃＠`
 
