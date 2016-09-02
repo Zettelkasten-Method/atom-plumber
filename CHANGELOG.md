@@ -1,3 +1,6 @@
+## 0.11.0
+* Update regex to accept `#＃＠`
+
 ## 0.10.0
 * Update regex to accept `?`
 
