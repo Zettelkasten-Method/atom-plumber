@@ -1,3 +1,6 @@
+## 0.14.0
+* Use BufferedProcess instead of node spawn
+
 ## 0.13.0
 * Support valid punctuation in word regex
 
