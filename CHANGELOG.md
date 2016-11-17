@@ -1,3 +1,6 @@
+## 0.16.0
+* Remove unnecessary dependency
+
 ## 0.15.0
 * Correctly handle click events
 * Remove link specific code
