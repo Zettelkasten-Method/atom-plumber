@@ -1,3 +1,7 @@
+## 0.15.0
+* Correctly handle click events
+* Remove link specific code
+
 ## 0.14.0
 * Use BufferedProcess instead of node spawn
 
