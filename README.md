@@ -13,8 +13,8 @@ Running `atom-plumber:plumb` will send the current selection to `plumber`. If no
 You can activate the command in several ways:
 
 * `alt-enter`
-* `alt-click` on some text (sometimes `alt-click` will clear a selection. If so, use `ctrl-alt-click`)
-* Hold `alt` then make a selection
+* `alt-click` on some text (sometimes `alt-click` will clear an existing selection. If so, use `ctrl-alt-click`)
+* Hold `alt` then make a new selection
 * Right-click and select "Plumb this" from the menu
 * Run "Atom Plumber: Plumb" from the Command Palette
 
