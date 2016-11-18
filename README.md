@@ -13,9 +13,10 @@ Running `atom-plumber:plumb` will send the current selection to `plumber`. If no
 Available commands are:
 
 * `alt-enter`
-* `alt-click`
-* right-click and select "Plumb this" from the menu
-* run "Atom Plumber: Plumb" from the Command Palette
+* `alt-click` on some text
+* Hold `alt` then make a selection
+* Right-click and select "Plumb this" from the menu
+* Run "Atom Plumber: Plumb" from the Command Palette
 
 You can make your own keymap in your `keymap.cson`. Change `alt-enter` to something else:
 
@@ -23,8 +24,6 @@ You can make your own keymap in your `keymap.cson`. Change `alt-enter` to someth
 'atom-workspace':
   'alt-enter': 'atom-plumber:plumb'
 ```
-
-Sometimes alt-clicking on a selection will clear the selection. If so use `ctrl-alt-click` on selections. Let me know if you have any problems with the click functionality.
 
 ## Contribution
 

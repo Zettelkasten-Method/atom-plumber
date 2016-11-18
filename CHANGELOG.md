@@ -1,3 +1,6 @@
+## 0.17.0
+* Alter selection command activation
+
 ## 0.16.0
 * Remove unnecessary dependency
 
