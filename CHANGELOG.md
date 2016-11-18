@@ -1,3 +1,6 @@
+## 0.18.0
+* Update readme
+
 ## 0.17.0
 * Alter selection command activation
 
