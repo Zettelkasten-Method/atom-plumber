@@ -1,6 +1,6 @@
 {
-  "name": "atom-plumber",
-  "main": "./lib/atom-plumber",
+  "name": "plumber",
+  "main": "./lib/plumber",
   "version": "0.20.0",
   "description": "Send text to the Plan 9 plumber from within Atom",
   "keywords": [],
