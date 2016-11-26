@@ -1,3 +1,6 @@
+## 0.21.0
+* Rename to plumber
+
 ## 0.20.0
 * Update demo gif
 

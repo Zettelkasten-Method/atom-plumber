@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Plumb this",
-        "command": "atom-plumber:plumb"
+        "command": "plumber:plumb"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "atom-plumber",
+          "label": "plumber",
           "submenu": [
             {
               "label": "Plumb this",
-              "command": "atom-plumber:plumb"
+              "command": "plumber:plumb"
             }
           ]
         }
