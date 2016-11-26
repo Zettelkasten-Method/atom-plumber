@@ -1,5 +1,5 @@
 {
-  "name": "0.21.0",
+  "name": "publish",
   "main": "./lib/plumber",
   "version": "0.20.1",
   "description": "Send text to the Plan 9 plumber from within Atom",
