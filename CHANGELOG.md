@@ -1,3 +1,6 @@
+## 0.20.0
+* Update demo gif
+
 ## 0.19.0
 * Exclude mini-editors from keymap
 * Update readme

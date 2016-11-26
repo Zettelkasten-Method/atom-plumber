@@ -2,7 +2,7 @@
 
 Send text to the [Plan 9](https://swtch.com/plan9port/) [plumber](https://swtch.com/plan9port/man/man4/plumber.html) from within Atom. Sends the currently selected text, hyperlink or word under the cursor to the plumber. Web, file and custom linking protocols are supported.
 
-[![atom-plumber](https://cloud.githubusercontent.com/assets/9103375/20638317/9704b9f2-b358-11e6-8394-4e9e02185e4b.jpg)](https://streamable.com/dhnj)
+![atom-plumber](https://cloud.githubusercontent.com/assets/9103375/20638523/2a99ab96-b35e-11e6-9463-1fb8165d73ee.gif)
 
 Requires [`plumber` to be installed](https://github.com/9fans/plan9port/) and available on your path. Also requires a valid [`plumbing` file](http://faq.surge.sh/plan9-plumber-plumbing-file/) so `plumber` can interpret the messages you're sending to it from Atom.
 
