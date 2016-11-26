@@ -1,3 +1,6 @@
+## 0.23.0
+* Get link under cursor from scope
+
 ## 0.22.0
 * Rename to plumber
 
