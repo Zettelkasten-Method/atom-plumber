@@ -1,3 +1,7 @@
+## 0.19.0
+* Exclude mini-editors from keymap
+* Update readme
+
 ## 0.18.0
 * Update readme
 

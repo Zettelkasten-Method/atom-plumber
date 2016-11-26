@@ -21,7 +21,7 @@ You can activate the command in several ways:
 You can make your own keymap in your `keymap.cson`. Change `alt-enter` to something else:
 
 ```
-'atom-workspace':
+'atom-workspace atom-text-editor:not([mini])':
   'alt-enter': 'atom-plumber:plumb'
 ```
 
