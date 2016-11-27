@@ -18,7 +18,7 @@ You can activate the command in several ways:
 * `alt-click` on some text (sometimes `alt-click` will clear an existing selection. If so, use `ctrl-alt-click`)
 * Hold `alt` then make a new selection
 * Right-click and select "Plumb this" from the menu
-* Run "Atom Plumber: Plumb" from the Command Palette
+* Run "Plumber: Plumb" from the Command Palette
 
 You can make your own keymap in your `keymap.cson`. Change `alt-enter` to something else:
 
