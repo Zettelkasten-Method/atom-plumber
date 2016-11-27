@@ -1,3 +1,6 @@
+## 0.24.0
+* Improve path handling
+
 ## 0.23.0
 * Get link under cursor from scope
 
