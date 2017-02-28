@@ -29,4 +29,4 @@ You can make your own keymap in your `keymap.cson`. Change `alt-enter` to someth
 
 ## Contribution
 
-[Open an issue](https://github.com/xHN35RQ/atom-plumber/issues) if you have any problems, find any bugs or have any suggestions for improvement in the code or plugin architecture. Thanks.
+[Open an issue](https://github.com/Zettelkasten-Method/atom-plumber/issues) if you have any problems, find any bugs or have any suggestions for improvement in the code or plugin architecture. Thanks.
